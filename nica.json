@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/MagincyanGames/MagicPokedex/refs/heads/main/public/data/schemas/author.json",
-    "base_url": "https://raw.githubusercontent.com/CarlosPalmaSantos/pokedex-elena-nica/refs/heads/main/images/",
+    "base_url": "https://raw.githubusercontent.com/DYB9672elena/pokedex-elena-nica/refs/heads/main/images/",
     "name": "Nica",
     "pokemons": {
         "primeape": "primeape.png",
